@@ -8,7 +8,7 @@
   }],
   "require": {
     "php": ">=7.1",
-    "ankitpokhrel/tus-php": "^0.0.0"
+    "meysamhashemi/tus-php": "^0.0.0"
   },
   "autoload": {
     "psr-4": {
