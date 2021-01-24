@@ -1,5 +1,5 @@
 {
-  "name": "arvan/vod-client-sdk",
+  "name": "meysamhashemi/vod-client-sdk",
   "type": "library",
   "description": "This is a client package to make your development process more faster.",
   "authors": [{
@@ -10,7 +10,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "guzzlehttp/guzzle": "^6.3",
     "ankitpokhrel/tus-php": "^0.0.0"
   },
   "autoload": {
